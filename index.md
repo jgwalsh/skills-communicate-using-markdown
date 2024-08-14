@@ -1,3 +1,7 @@
+<!---shields.io is a list of badges you can include in documents--->
+<!---can type in user name and repo name and click "markdown" and get the link directly generated for you--->
+![GitHub last commit](https://img.shields.io/github/last-commit/jgwalsh/skills-communicate-using-markdown)
+
 # Header 1
 ## Header 2
 ### Header 3

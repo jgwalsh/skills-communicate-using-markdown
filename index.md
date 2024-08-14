@@ -29,3 +29,9 @@ print("Hello World!")
 :bowtie:
 
 :smiley:
+
+#### Add lists
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
+- [x] Item 4

@@ -35,3 +35,8 @@ print("Hello World!")
 - [ ] Item 2
 - [ ] Item 3
 - [x] Item 4
+
+#### Bulleted lists
+- List 1
+- List 2
+- List 3
